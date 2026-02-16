@@ -28,13 +28,12 @@ class ModInfo(CommonModInfo):
 
     @property
     def _version(self) -> str:
-        return '0.0.1'
+        return '1.0.0'
 
 
 '''
-v0.0.2
+v1.0.0
     Update pie menu
 v0.0.1
     Initial version
-v0
 '''

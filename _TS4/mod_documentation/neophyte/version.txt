@@ -1,5 +1,5 @@
-Neophyte v0.0.1 for The Sims 4 v1.121.342 and S4CL v3.19
+Neophyte v1.0.0 for The Sims 4 v1.121.342 and S4CL v3.19
 Created on 2026-02-05
-v0.0.1
-    Initial version
+v1.0.0
+    Update pie menu
 
